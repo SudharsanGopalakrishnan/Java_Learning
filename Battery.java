@@ -1,12 +1,12 @@
 public class Battery {
 
-/*public static void main(String ARGS[]){
-System.out.println("Inside first Battery class");
+public static void main(String ARGS[]){
+System.out.println("Trying the commit to run this in jenkins");
 System.out.println("Triggering next class");
-}*/	
+}	
 
 
-String batteryName, Brand;
+/*String batteryName, Brand;
 	int cost, lifespan;
 	
 	
@@ -15,7 +15,7 @@ String batteryName, Brand;
 		this.batteryName=batteryName;
 		this.Brand=Brand;
 		this.cost=cost;
-		this.lifespan=lifespan;
+		this.lifespan=lifespan;*/
 }
 
 }
