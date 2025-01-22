@@ -1,12 +1,12 @@
 public class Battery {
 
-public static void main(String ARGS[]){
+/*public static void main(String ARGS[]){
 System.out.println("Inside first Battery class");
 System.out.println("Triggering next class");
-}	
+}*/	
 
 
-/*String batteryName, Brand;
+String batteryName, Brand;
 	int cost, lifespan;
 	
 	
@@ -16,6 +16,6 @@ System.out.println("Triggering next class");
 		this.Brand=Brand;
 		this.cost=cost;
 		this.lifespan=lifespan;
-	}*/
+}
 
 }
