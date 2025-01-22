@@ -9,6 +9,7 @@ System.out.println("Triggering next class");
 //this is the last edited line for pushing this code and testing it in Jenkins	
 System.out.println("chaning this line");
 	System.out.println("Github commiting this code");
+	System.out.println("trying again");
 	
 }/*	
 
